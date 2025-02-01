@@ -29,5 +29,3 @@ email.send_keys('yamada2014@yandex.ru')
 submit = driver.find_element_by_id('submit')
 submit.click()
 driver.quit()
-
-C:/Users/Валерия/PycharmProjects/pythonProject3/1/book_store_testing
